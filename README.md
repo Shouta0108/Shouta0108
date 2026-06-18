@@ -3,6 +3,7 @@
 組込み・メカトロニクスから信号処理・機械学習まで、ハードとソフトの境界を横断して開発しているエンジニアです。センサ・マイコンを使った計測/制御、LiDAR・画像処理、3D処理に興味があります。
 
 - 🔧 得意分野: 組込み (Arduino / RP2040) / メカトロニクス / 信号処理 (FFT) / 画像処理 (OpenCV) / 機械学習
+- 🎓 研究: 複数台の Azure Kinect を同期させた人間の歩行解析。モデルを構築し OpenSim で可視化・検証
 - 🔭 取り組んでいること: 点群・メッシュ・ビデオ処理ライブラリの開発 (C++ / Python)
 - 🌱 学習中: 機械学習・データ分析 (Kaggle), リアルタイムレンダリング
 - 🎨 趣味: Blender での 3D モデリング（自作モデルは Sketchfab に公開中）
@@ -20,6 +21,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Azure Kinect](https://img.shields.io/badge/Azure_Kinect-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenSim](https://img.shields.io/badge/OpenSim-009688?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
