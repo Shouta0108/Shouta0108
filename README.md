@@ -1,10 +1,11 @@
 ## 👋 Hi, I'm @Shouta0108
 
-ロボティクス・3D処理を中心に開発しているエンジニアです。点群・メッシュ・ビデオ処理、リアルタイムレンダリング、物理シミュレーションに取り組んでいます。
+組込み・メカトロニクスから信号処理・機械学習まで、ハードとソフトの境界を横断して開発しているエンジニアです。センサ・マイコンを使った計測/制御、LiDAR・画像処理、3D処理に興味があります。
 
-- 🔭 取り組んでいること: C++/Pythonによる点群・メッシュ・ビデオ処理ライブラリの開発
-- 🤖 興味分野: ロボティクス / 経路探索 / 3D可視化 / 物理シミュレーション
-- 🌱 学習中: WebAssembly, リアルタイムレンダリング
+- 🔧 得意分野: 組込み (Arduino / RP2040) / メカトロニクス / 信号処理 (FFT) / 画像処理 (OpenCV) / 機械学習
+- 🔭 取り組んでいること: 点群・メッシュ・ビデオ処理ライブラリの開発 (C++ / Python)
+- 🌱 学習中: 機械学習・データ分析 (Kaggle), リアルタイムレンダリング
+- 💬 LiDAR・センサ計測・組込み画像処理まわりの話が好きです
 
 ## 🌐 Socials
 
@@ -12,16 +13,28 @@
 
 ## 💻 Tech Stack
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=qt&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🚀 Featured Projects
+
+| Project | 概要 | Tech |
+| --- | --- | --- |
+| [Room-simplify](https://github.com/Shouta0108/Room-simplify) | LD19 LiDAR のスキャンデータから部屋の概形マップを生成・可視化 | C++ / OpenCV |
+| [car-oil-water-temp-indicator](https://github.com/Shouta0108/car-oil-water-temp-indicator) | RP2040 + ILI9486 で油温・水温をアナログ風メーター表示する車載ゲージ | C / RP2040 |
+| [detecting-heartbeat-with-microphone-sound](https://github.com/Shouta0108/detecting-heartbeat-with-microphone-sound) | マイク録音した心音から FFT・バンドパスで心拍数を定量推定 | Python / 信号処理 |
+| [Segment-Hunter](https://github.com/Shouta0108/Segment-Hunter) | ジョイスティック操作の Arduino ゲーム（メカトロニクス課題） | Arduino / C++ |
 
 ## 📊 GitHub Stats
 
