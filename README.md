@@ -5,11 +5,13 @@
 - 🔧 得意分野: 組込み (Arduino / RP2040) / メカトロニクス / 信号処理 (FFT) / 画像処理 (OpenCV) / 機械学習
 - 🔭 取り組んでいること: 点群・メッシュ・ビデオ処理ライブラリの開発 (C++ / Python)
 - 🌱 学習中: 機械学習・データ分析 (Kaggle), リアルタイムレンダリング
+- 🎨 趣味: Blender での 3D モデリング（自作モデルは Sketchfab に公開中）
 - 💬 LiDAR・センサ計測・組込み画像処理まわりの話が好きです
 
 ## 🌐 Socials
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shouta0108)
+[![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/Shouta0108)
 
 ## 💻 Tech Stack
 
@@ -23,6 +25,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
