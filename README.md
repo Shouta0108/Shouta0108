@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm @Shouta0108
 
-組込み・メカトロニクスから信号処理・機械学習まで、ハードとソフトの境界を横断して開発しているエンジニアです。センサ・マイコンを使った計測/制御、LiDAR・画像処理、3D処理に興味があります。
+An engineer working across the boundary of hardware and software — from embedded systems and mechatronics to signal processing and machine learning. I'm interested in sensor-based measurement/control, LiDAR & image processing, and 3D processing.
 
-- 🔧 得意分野: 組込み (Arduino / RP2040) / メカトロニクス / 信号処理 (FFT) / 画像処理 (OpenCV) / 機械学習
-- 🎓 研究: 複数台の Azure Kinect を同期させた人間の歩行解析。モデルを構築し OpenSim で可視化・検証
-- 🔭 取り組んでいること: 点群・メッシュ・ビデオ処理ライブラリの開発 (C++ / Python)
-- 🌱 学習中: 機械学習・データ分析 (Kaggle), リアルタイムレンダリング
-- 🎨 趣味: Blender での 3D モデリング（自作モデルは Sketchfab に公開中）
-- 💬 LiDAR・センサ計測・組込み画像処理まわりの話が好きです
+- 🔧 Focus: Embedded (Arduino / RP2040) / Mechatronics / Signal Processing (FFT) / Image Processing (OpenCV) / Machine Learning
+- 🎓 Research: Human gait analysis using multiple synchronized Azure Kinect devices — building models and visualizing/validating them in OpenSim
+- 🔭 Currently working on: Point cloud, mesh, and video processing library development (C++ / Python)
+- 🌱 Learning: Machine learning & data analysis (Kaggle), real-time rendering
+- 🎨 Hobby: 3D modeling in Blender (my models are published on Sketchfab)
+- 💬 Happy to chat about LiDAR, sensor measurement, and embedded image processing
 
 ## 🌐 Socials
 
@@ -35,12 +35,12 @@
 
 ## 🚀 Featured Projects
 
-| Project | 概要 | Tech |
+| Project | Description | Tech |
 | --- | --- | --- |
-| [Room-simplify](https://github.com/Shouta0108/Room-simplify) | LD19 LiDAR のスキャンデータから部屋の概形マップを生成・可視化 | C++ / OpenCV |
-| [car-oil-water-temp-indicator](https://github.com/Shouta0108/car-oil-water-temp-indicator) | RP2040 + ILI9486 で油温・水温をアナログ風メーター表示する車載ゲージ | C / RP2040 |
-| [detecting-heartbeat-with-microphone-sound](https://github.com/Shouta0108/detecting-heartbeat-with-microphone-sound) | マイク録音した心音から FFT・バンドパスで心拍数を定量推定 | Python / 信号処理 |
-| [Segment-Hunter](https://github.com/Shouta0108/Segment-Hunter) | ジョイスティック操作の Arduino ゲーム（メカトロニクス課題） | Arduino / C++ |
+| [Room-simplify](https://github.com/Shouta0108/Room-simplify) | Generate and visualize a simplified room map from LD19 LiDAR scan data | C++ / OpenCV |
+| [car-oil-water-temp-indicator](https://github.com/Shouta0108/car-oil-water-temp-indicator) | In-car gauge displaying oil & water temperature as analog-style meters on an RP2040 + ILI9486 | C / RP2040 |
+| [detecting-heartbeat-with-microphone-sound](https://github.com/Shouta0108/detecting-heartbeat-with-microphone-sound) | Quantitatively estimate heart rate from microphone-recorded heart sounds via FFT & band-pass filtering | Python / Signal Processing |
+| [Segment-Hunter](https://github.com/Shouta0108/Segment-Hunter) | Joystick-controlled Arduino game (mechatronics course project) | Arduino / C++ |
 
 ## 📊 GitHub Stats
 
