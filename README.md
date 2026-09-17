@@ -12,7 +12,7 @@ Tokyo, Japan · Open to new-grad roles in measurement & control, robotics/sensin
 
 ## What I do
 
-I like problems where the answer isn't in a library — where you have to get a signal out of noisy hardware and turn it into a number someone can act on. That thread runs through everything below: a LiDAR that returns a messy point cloud, a microphone recording where the heartbeat is buried under mains hum, a depth camera rig that has to agree with itself across four viewpoints.
+I like problems where the answer isn't in a library — where you have to get a signal out of noisy hardware and turn it into a number someone can act on. That thread runs through everything below: a LiDAR that returns a messy point cloud, a microphone recording where the heartbeat is buried under mains hum, a depth-camera rig that has to agree with itself across multiple viewpoints.
 
 - **Embedded / mechatronics** — Arduino, RP2040 (dual-core), SPI displays, thermistors, serial protocols
 - **Signal processing** — FFT, band-pass and notch filtering, peak detection, noise rejection
@@ -37,6 +37,18 @@ Clinical gait assessment (the instrumented Timed Up-and-Go, **iTUG**) normally r
 
 > 📄 Paper in preparation. Code and data will be published here after submission — happy to walk through the method and results in an interview.
 
+*Most of my day-to-day work lives in private research repositories, so the public list below is only part of the picture.*
+
+---
+
+## 🌍 Open Source
+
+**[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** · 5.5k★ · vision-language model inference & fine-tuning on Apple Silicon
+
+[**#2176** — `fix: declare jinja2 as a runtime dependency`](https://github.com/Blaizzy/mlx-vlm/pull/2176) — **merged**
+
+A clean install of the package failed at import time: `jinja2` was used at runtime but never declared, so `pyproject.toml` (which reads its dependencies from `requirements.txt`) never pulled it in. Tracing a broken install back to a packaging-metadata gap, then submitting the one-line fix upstream.
+
 ---
 
 ## 🚀 Projects
@@ -50,7 +62,7 @@ Turns raw 2D LiDAR scans into a clean floor plan.
 - **What I built** — Read the LD19's binary packet stream over USB-serial in C++, project scans into an occupancy image, then recover wall segments with a Hough line transform and merge collinear fragments into a simplified polygon.
 - **Why it matters** — Runs entirely on a PC in C++ with no Raspberry Pi in the loop, so the whole pipeline from serial bytes to rendered map is one process I control end to end.
 
-### [car-oil-water-temp-indicator](https://github.com/Shouta0108/car-oil-water-temp-indicator) · `C/C++` `RP2040`
+### [car-oil-water-temp-indicator](https://github.com/Shouta0108/car-oil-water-temp-indicator) · `C` `RP2040`
 A real in-car gauge — oil and coolant temperature as analog-style needles on a 3.5" LCD.
 
 - **Problem** — I wanted both temperatures on one screen in my own car, updating smoothly enough to read at a glance while driving, with warnings I couldn't miss.
@@ -101,13 +113,6 @@ A playable arcade game on a 16×2 LCD — mechatronics coursework, taken further
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-
----
-
-## 📊 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shouta0108&theme=dark&hide_border=true&show_icons=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shouta0108&theme=dark&hide_border=true&layout=compact" height="160" />
 
 ---
 
